@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "Matemáticas",
+		"description": "Fundada en el año 1790",
+		"idArea": 1,
+		"idUsuario": 1, 
+		"create_at": "2021-11-18T04:21:29.836Z",
+		"update_at": "2021-11-18T04:21:29.836Z"
+	},
+	{
+		"id": 2,
+		"name": "Matemáticas II",
+		"description": "Fundada en el año 1860", 
+		"idArea": 1,
+		"idUsuario": 3,
+		"create_at": "2021-11-19T04:21:29.836Z",
+		"update_at": "2021-11-19T04:21:29.836Z"
+	},
+	{
+		"id": 3,
+		"name": "Matemáticas III",
+		"description": "Fundada en el año 1799",
+		"idArea": 1,
+		"idUsuario": 4, 
+		"create_at": "2021-11-19T04:21:30.836Z",
+		"update_at": "2021-11-19T04:21:30.836Z"
+	}
+	
+]
